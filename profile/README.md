@@ -24,7 +24,7 @@ These platforms center on character creation rather than fixed lists. You define
 - Upgrade for extended features.
 
 <p align="center">
-  <a href="https://chubby-gf.com/charactertalk"><img src="./char_cta1.jpg" width="105" alt="Create"></a>
+  <a href="https://chubby-gf.com/charactertalk"><img src="./char_cta1.jpg" width="185" alt="Create"></a>
 </p>
 
 ---
@@ -63,9 +63,9 @@ Check free message or creation limits, what the plan actually unlocks, any usage
 People who want to shape a character rather than pick from a fixed list, and who are willing to test free before committing. Less useful for pure general assistants.
 
 <p align="center">
-  <a href="https://chubby-gf.com/charactertalk"><img src="./char_cta2.jpg" width="105" alt="Plans"></a>
+  <a href="https://chubby-gf.com/charactertalk"><img src="./char_cta2.jpg" width="185" alt="Plans"></a>
   &nbsp;
-  <a href="https://chubby-gf.com/charactertalk"><img src="./char_cta3.jpg" width="105" alt="Start"></a>
+  <a href="https://chubby-gf.com/charactertalk"><img src="./char_cta3.jpg" width="185" alt="Start"></a>
 </p>
 
 ---
